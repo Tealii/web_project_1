@@ -242,7 +242,7 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    background-color: #000;
+    background-color: #1f1f1f;
     overflow: hidden;
 }
 
@@ -312,7 +312,7 @@
 /*all footer block styles*/
 .footer {
     min-height: 350px;
-    background-color: #000;  
+    background-color: #1f1f1f;  
     display: flex;
     justify-content: center; 
 }
