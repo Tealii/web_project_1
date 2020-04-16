@@ -1,0 +1,9 @@
+
+
+.logo {
+    background-image: url(../images/logo.png);
+    background-size: 154px 31px;
+    background-repeat: no-repeat;
+    width: 154px;
+    height: 31px;
+}
