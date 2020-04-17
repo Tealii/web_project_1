@@ -1,31 +1,31 @@
 
 /* for square-pic and kuafman-triangle */
-@keyframes rotation {
+/* @keyframes rotation {
     from {
         transform : rotate(0deg);
     }
     to {
         transform: rotate(360deg);
     }
-}
+} */
 
 
 
 
-.page {
+/* .page {
     min-width: 1100px;
-    /* we don't know how to make mobile versions of websites yet, */
-    /* so here we've set a minimum page width */
+    we don't know how to make mobile versions of websites yet,
+    so here we've set a minimum page width
     max-width: 1600px;
-    /* here we've set a maximum page width */
+    here we've set a maximum page width
     margin: 0 auto;
-    /* this ensures that all content is centered on screens wider than 1600px */
+    this ensures that all content is centered on screens wider than 1600px
     font-family: 'Helvetica Neue', Arial, sans-serif;
-}
+} */
 
 
 /* all header block styles*/
-.header {
+/* .header {
     display: flex;
     height: 100vh;
     min-height: 600px;
@@ -101,11 +101,11 @@
     z-index: 1;
     transform: rotate(-15deg);
     animation: rotation 20s linear infinite;
-}
+} */
 
 
 /*all description block styles*/
-.description {
+/* .description {
     margin-top: 100px;
     margin-bottom: 100px;
     display: flex;
@@ -150,10 +150,10 @@
     line-height: 34px;
     font-size: 24px;
     font-weight: bold;
-}
+} */
 
 /*all digits block styles*/
-.digits {
+/* .digits {
     margin-top: 100px;
     margin-bottom: 100px;
     display: flex;
@@ -209,10 +209,10 @@
     font-weight: normal;
     margin-top: 20px;
     margin-bottom: 0;
-}
+} */
 
 /*all Feynman block styles*/
-.feynman {
+/* .feynman {
     padding-top: 100px;
     height: 790px;
     position: relative;
@@ -249,10 +249,10 @@
     font-weight: normal;
     color: #000;
     text-decoration: none;
-}
+} */
 
 /*all kaufman block styles*/
-.kaufman {
+/* .kaufman {
     position: relative;
     padding-top: 90px;
     padding-bottom: 90px;
@@ -325,10 +325,10 @@
      top: 0;
      right: -210px;
      animation: rotation 20s linear infinite;
- }
+ } */
 
 /*all footer block styles*/
-.footer {
+/* .footer {
     min-height: 350px;
     background-color: #1f1f1f;  
     display: flex;
@@ -398,7 +398,7 @@
     width: 16px;
     height: 16px;
     padding-right: 10px;
-}
+} */
 
 /* all new styles will be down here as they will eventually
 be relocated to specified folders */
