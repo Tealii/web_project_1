@@ -404,31 +404,34 @@
 be relocated to specified folders */
 
 /* all styles for techniques block */
-.techniques {
+/* .techniques {
     margin: 100px auto;
     display: flex;
     align-items: center;
     flex-direction: column;
-}
+} */
 
-.cards {
+/* .cards {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
     width: 920px;
     margin: 0 auto;
     padding: 0;
     list-style: none;
-}
+} */
 
-.cards__item {
+/* .cards__item {
     text-align: center;
-    width: 250px;
+    width: 240px;
     margin-top: 60px;
-    /* margin-right: 100px */
+    margin-right: 100px
 }
 
-.cards__image {
+.cards__item:nth-of-type(3n) {
+    margin-right: 0;
+} */
+
+/* .cards__image {
     width: 160px;
     height: 160px;
     margin: 0 40px 43px 40px;
@@ -446,13 +449,12 @@ be relocated to specified folders */
     line-height: 23px;
     font-size: 18px;
     font-weight: normal;
-}
+} */
 
 /* all video block styles */
-.video {
+/* .video {
     display: flex;
     align-items: center;
-    /* position: relative; */
     flex-direction: column;
     width: auto;
     height: 425px;
@@ -460,8 +462,6 @@ be relocated to specified folders */
 
 .video__iframes {
     margin-top: 50px;
-    /* position: absolute;
-    top: 250px; */
     z-index: 1;
 }
 
@@ -471,18 +471,18 @@ be relocated to specified folders */
 
 .video__iframe:last-of-type {
     margin-right: 0;
-}
+} */
 
 /* oakley styles  */
-.oakley {
+/* .oakley {
     padding: 160px 0 80px 0;
     display: flex;
     justify-content: center;
     background-color: #f2f2f2;
-}
+} */
 
 /* khan styles */
-.khan {
+/* .khan {
     display: flex;
     justify-content: center;
     background-color: #f2f2f2;
@@ -551,10 +551,10 @@ be relocated to specified folders */
     line-height: 42px;
     font-size: 30px;
     font-weight: normal;
-}
+} */
 
 /* resources styles */
-.resources {
+/* .resources {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -569,4 +569,4 @@ be relocated to specified folders */
 .resources__logo {
     width: 270px;
     height: 38px;
-}
+} */
