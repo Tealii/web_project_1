@@ -1,6 +1,12 @@
-
+/* I assume these are 'links' as well? So anything clickable
+should transition? */
 
 .resources__logo {
     width: 270px;
     height: 38px;
+    transition: opacity .5s linear;
+}
+
+.resources__logo:hover {
+    opacity: .5;
 }

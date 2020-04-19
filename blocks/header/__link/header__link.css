@@ -1,11 +1,14 @@
 
 
 .header__link {
-    width: 388px;
     line-height: 25px;
     font-size: 18px;
     font-weight: normal;
-    z-index: 1;
     color: #2f80ed;
     text-decoration: none;
+    transition: opacity .5s linear;
+}
+
+.header__link:hover {
+    opacity: .5;
 }
