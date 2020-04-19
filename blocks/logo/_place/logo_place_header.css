@@ -1,13 +1,13 @@
 
 
 .logo_place_header {
-    background-image: url(../../../images/logo.png);
-    background-size: 154px 31px;
-    background-repeat: no-repeat;
-    width: 154px;
-    height: 31px;
-    position: absolute;
-    top: 30px;
-    left: 64px;
-    z-index: 3;
+  background-image: url(../../../images/logo.png);
+  background-size: 154px 31px;
+  background-repeat: no-repeat;
+  width: 154px;
+  height: 31px;
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  z-index: 3;
 }
